@@ -1,2 +1,3 @@
 # ChangeExcelRegedit
 自动修改windows系统注册表，解决oledb方式读取excel文件，单元格超过256字符无法读取完整的问题
+但要注意，还需要将要读取的excel文件中单元格格式设为文本格式
